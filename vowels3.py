@@ -1,4 +1,4 @@
-vowels=['a','e','i','o','u',]
+vowels=['a', 'e', 'i', 'o', 'u']
 word=input("Provide a word to search fo vowels:")
 found=[]
 for letter in word:
